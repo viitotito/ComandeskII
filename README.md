@@ -4,7 +4,7 @@ Projeto desenvolvido para ajudar restaurantes, bares e outros estabelecimentos d
 
 
 ## 📄 Especificações
-[Relatório do Sistema]([https://docs.google.com/document/d/1tMY9tVgPF00_AmgTNFwJ7bCA1sOwlcgVLIzS-i7jBmk/edit?usp=sharing](https://docs.google.com/document/d/1-6K4Juv3AjV7TomfdgMsLaYtjD7KI9TZ3ICDrx6iEQ8/edit?usp=sharing))
+[Relatório do Sistema](https://docs.google.com/document/d/1-6K4Juv3AjV7TomfdgMsLaYtjD7KI9TZ3ICDrx6iEQ8/edit?usp=sharing)
 ## ⚙️ Funcionalidades
 
 - Cadastro, edição, remoção e visualização de produtos via banco de dados;
